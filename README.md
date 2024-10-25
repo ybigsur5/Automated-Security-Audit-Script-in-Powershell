@@ -20,16 +20,17 @@ A PowerShell script that performs automated security audits on Windows systems, 
 1. Clone this repository or download the script:
 ```powershell
 git clone https://github.com/ybigsur5/security-audit-script.git
-Navigate to the script directory:
+
+2. Navigate to the script directory:
 Copy
 Analyze
 Edit
 cd security-audit-script
 
 ## 💻 Usage
-Open PowerShell as Administrator
+1. Open PowerShell as Administrator
 
-Run the script:
+2. Run the script:
 
 Copy
 Analyze
